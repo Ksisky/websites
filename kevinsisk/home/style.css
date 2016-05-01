@@ -1,7 +1,39 @@
 .center {
-    text-align: center
+    text-align: center;
 }
-
 #list {
-    padding-right: 2.964%
+    padding-right: 2.964%;
+}
+h1, p, a {
+    font-family: sans-serif;
+}
+body {
+    background-color: #1a1aff;
+}
+a {
+    color: white;
+    text-decoration: none;
+    border-bottom: 1px solid #ff3300;
+}
+a:hover {
+    color: #8c8c8c;
+}
+li:hover, h1 {
+    color:#ff3300;
+}
+h1 {
+    color:#ff3300;
+    text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+}
+#copyr {
+    margin: 0 auto;
+    color: black;
+    border-bottom: none;
+    text-align: center;
+    display: block;
+}
+#copyr:hover {
+    color: #8c8c8c;
+    border-bottom: 1px solid #ff3300;
+    width: 20.5%;
 }
