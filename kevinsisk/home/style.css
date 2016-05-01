@@ -33,7 +33,7 @@ h1 {
     display: block;
 }
 #copyr:hover {
-    color: #8c8c8c;
+    color: white;
     border-bottom: 1px solid #ff3300;
     width: 20.5%;
 }
